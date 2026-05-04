@@ -1,4 +1,4 @@
-# Thokala_SiriChandana_COMP_699_D```markdown
+# Thokala_SiriChandana_COMP_699_D
 # Deadline Negotiation as a Service (DNaaS)
 
 ## Author
@@ -9,12 +9,12 @@ COMP-699-D Professional Seminar
 Spring 2026
 
 ## Overview
-This project presents the Deadline Negotiation as a Service (DNaaS) system, which is designed to help teams manage project deadlines in a more structured and intelligent way. The system focuses on analyzing workload, detecting conflicts, and supporting deadline negotiation between stakeholders. :contentReference[oaicite:0]{index=0}  
+This project presents the Deadline Negotiation as a Service (DNaaS) system, which is designed to help teams manage project deadlines in a more structured and intelligent way. The system focuses on analyzing workload, detecting conflicts, and supporting deadline negotiation between stakeholders.  
 
 The main goal of this system is to reduce unrealistic deadlines, improve planning, and support better decision making using data-driven analysis instead of assumptions.
 
 ## Problem Statement
-In many organizations, deadlines are assigned without properly analyzing workload and team capacity. This leads to overlapping tasks, missed deadlines, and increased pressure on contributors. :contentReference[oaicite:1]{index=1}  
+In many organizations, deadlines are assigned without properly analyzing workload and team capacity. This leads to overlapping tasks, missed deadlines, and increased pressure on contributors.  
 
 There is also no structured system to detect conflicts or suggest better alternatives. Most teams depend on manual communication, which is time-consuming and not always effective. This project addresses these issues by introducing an automated and analytical approach to deadline management.
 
@@ -54,7 +54,7 @@ The system follows a structured layered approach:
 - Negotiation Management for deadline proposals  
 - Audit and Reporting Layer for tracking system activity  
 
-The system is designed in a client-server model where users interact through a web interface and backend processes handle analysis and data operations. :contentReference[oaicite:2]{index=2}  
+The system is designed in a client-server model where users interact through a web interface and backend processes handle analysis and data operations.
 
 ## Technologies Used
 - Python (Object-Oriented Programming)  
@@ -86,7 +86,7 @@ streamlit run dnaas_system.py
 3. Open in browser:
 ```
 
-[http://localhost:8501](http://localhost:8501)
+[http://localhost:8501]
 
 ```
 
